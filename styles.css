@@ -12,5 +12,63 @@
     margin-top: 15px;
     margin-left: 700px;
     width: 500px;
-    height: 35px;
+    height: 40px;
+    border: 1px solid rgba(207, 189, 189, 0.89);
+}
+
+.button1 {
+    margin-left: 850px;
+    margin-top: 20px;
+    width: 120px;
+    height: 30px;
+    border-radius: 3px;
+    font-size: 12px;
+    font-family: sans-serif;
+    border: none;
+    color:rgb(44, 42, 42);
+    background-color:rgba(185, 180, 180, 0.12);
+    
+}
+
+.button1:hover {
+    border: 1px solid rgba(207, 189, 189, 0.89);
+    box-shadow: 1px 1px 10px rgba(56, 55, 55, 0.19);
+
+
+}
+
+.francais1 {
+    text-align: center;
+    margin-top: 25px;
+    color: rgb(14, 13, 13);
+    font-size: 12px;
+}
+
+#about {
+    font-size: 13px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight:normal;
+    margin-top: 20px;
+    margin-left: 10px;
+    word-spacing: 30px;
+    color:black;
+
+}
+#store {
+    font-size: 13px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight:normal;
+    margin-top: 20px;
+    margin-left: 10px;
+    word-spacing: 30px;
+    color:black;
+
+}
+
+#app {
+    width: 20px;
+    margin-left: 1630px;
+}
 }
