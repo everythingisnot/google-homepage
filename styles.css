@@ -2,3 +2,15 @@
     margin-top: 230px;
     margin-left: 825px;
 } 
+#input {
+    background-image:url(icon.png);
+    background-repeat:no-repeat;
+    background-position: 9px 10px;
+    background-size: 3%;
+    padding-left: 40px;
+    border-radius: 20px;
+    margin-top: 15px;
+    margin-left: 700px;
+    width: 500px;
+    height: 35px;
+}
